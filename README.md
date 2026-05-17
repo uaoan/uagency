@@ -51,8 +51,8 @@ The source code is currently for sale. Upon purchase, you will receive:
 4. Deployment instructions and database schemas
 
 **Contact us:**
-* Telegram: `[Your Telegram Handle]`
-* Email: `[Your Email Address]`
+* Telegram: `[https://t.me/uaoanlao]`
+* Email: `[1823565614@qq.com]`
 
 ---
 
@@ -104,5 +104,5 @@ The source code is currently for sale. Upon purchase, you will receive:
 4. 部署文档及数据库文件
 
 **联系方式：**
-* Telegram: `[您的 TG 账号]`
-* 邮箱: `[您的联系邮箱]`
+* Telegram: `[https://t.me/uaoanlao]`
+* 邮箱: `[1823565614@qq.com]`
